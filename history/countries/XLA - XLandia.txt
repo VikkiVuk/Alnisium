@@ -92,7 +92,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Petar Therok"
 	desc = "A sussy and goofy ahh boi"
-	picture = petar.dds
+	picture = XLA/petar.dds
 	ideology = anti_revisionism
 	traits = {
 		#
