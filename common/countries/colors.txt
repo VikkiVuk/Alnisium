@@ -1,5 +1,8 @@
 #reload countrycolors
-
+ELW = {
+	color = rgb { 127 3 252 }
+	color_ui = rgb { 127 3 252 }
+}
 KRO = {
 	color = rgb { 252 127 3 }
 	color_ui = rgb { 252 129 8 }
