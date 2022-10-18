@@ -1,0 +1,23 @@
+state={
+	id=921
+	name="STATE_921"
+	provinces={
+		417 442 466 506 562 584 3410 3434 3458 3497 3586 6416 6464 6499 6522 9412 9427 9494 11398 11413 11428 11430 11507 11532 13205 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history={
+		owner = ELW
+		add_core_of = ELW
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 2
+			anti_air_building = 2
+			air_base = 5
+		}
+	}
+}

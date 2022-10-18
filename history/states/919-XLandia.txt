@@ -1,0 +1,23 @@
+state={
+	id=919
+	name="STATE_919"
+	provinces={
+		653 668 671 673 682 686 701 3670 3673 3674 3675 3680 3683 6673 6678 6680 6685 6687 6690 6691 6703 9624 9633 9636 9643 9646 9648 9650 9661 9679 11610 11612 11618 11627 11630 11634 13125 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history={
+		owner = XLA
+		add_core_of = XLA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 2
+			anti_air_building = 2
+			air_base = 5
+		}
+	}
+}

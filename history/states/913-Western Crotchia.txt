@@ -1,0 +1,23 @@
+state={
+	id=913
+	name="STATE_913"
+	provinces={
+		606 797 937 982 3985 6614 6619 6799 6957 6983 9586 9588 9591 9821 9922 11572 11574 11741 11858 11872 11899 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history={
+		owner = KRO
+		add_core_of = KRO
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 2
+			anti_air_building = 2
+			air_base = 5
+		}
+	}
+}
