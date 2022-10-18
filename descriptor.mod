@@ -8,4 +8,4 @@ tags={
 	"Ideologies"
 }
 name="Nationstates - SUSS Region"
-supported_version="1.12.3"
+supported_version="1.12.*"
