@@ -106,7 +106,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Viktoriskyy Blayurtkytz"
 	desc = "the one who"
-	picture = papaviki.dds
+	picture =gfx\leader\KRO/papaviki.dds
 	ideology = centrism
 	traits = {
 		#
