@@ -1,0 +1,24 @@
+state={
+	id=915
+	name="STATE_915"
+	state_category=metropolis
+	provinces={
+		902 3838 6891 9772 9851 9863 11755 11773 11804 11824 11874 
+	}
+	manpower=147201
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history={
+		owner = XLA
+		add_core_of = XLA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 2
+			anti_air_building = 2
+			air_base = 5
+		}
+	}
+}

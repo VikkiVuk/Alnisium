@@ -1,0 +1,24 @@
+state={
+	id=910
+	name="STATE_910"
+	state_category=metropolis
+	provinces={
+		833 841 867 895 907 914 922 935 936 966 974 1106 1205 3448 3526 3833 3844 3865 3882 3884 3893 3896 3914 3922 3936 3956 3980 6886 6900 6913 6940 6990 9780 9791 9805 9809 9837 9849 9874 9875 9890 9914 9916 9930 10163 10203 11741 11762 11767 11774 11786 11818 11832 11842 11856 11857 11895 11905 12001 13234 13235 13255 
+	}
+	manpower=14241365
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history={
+		owner = KRO
+		add_core_of = KRO
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 2
+			anti_air_building = 2
+			air_base = 5
+		}
+	}
+}
