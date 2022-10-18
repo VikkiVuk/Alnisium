@@ -1,10 +1,11 @@
 state={
 	id=911
 	name="STATE_911"
+	state_category=metropolis
 	provinces={
 		649 793 935 949 965 3796 3819 3952 3971 6842 6967 9610 9612 9769 9783 9888 9902 9919 11905 
 	}
-	manpower=0
+	manpower=9472146
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	

@@ -1,10 +1,11 @@
 state={
 	id=918
 	name="STATE_918"
+	state_category=metropolis
 	provinces={
 		688 704 732 3684 3700 3703 3718 6552 6703 6708 6720 6723 6739 9527 9665 9676 11651 11663 11666 
 	}
-	manpower=0
+	manpower=30472145
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	
