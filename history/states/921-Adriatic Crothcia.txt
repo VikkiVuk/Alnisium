@@ -4,7 +4,17 @@ state={
 	provinces={
 		937 3896 3922 6913 6940 9780 9809 9821 9914 11762 11858 13255 
 	}
-	manpower=0
+		history={
+		owner = KRO
+		add_core_of = KRO
+		
+		victory_points = {
+			937
+		}
+	}
+	
+	manpower=123369
+	state_category=city
 	buildings_max_level_factor=1.000
-	local_supplies=0.000
+	local_supplies=1.500
 }

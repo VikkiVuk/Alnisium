@@ -4,7 +4,17 @@ state={
 	provinces={
 		603 628 773 782 969 1616 3604 3657 3776 3780 3976 6606 6656 6790 6793 6973 6985 9582 9613 9752 11568 11584 11587 11734 
 	}
-	manpower=0
+	history={
+		owner = XLA
+		add_core_of = XLA
+		
+		victory_points = {
+			3780
+		}
+	}
+	
+	manpower=694200
+	state_category=city
 	buildings_max_level_factor=1.000
-	local_supplies=0.000
+	local_supplies=1.000
 }
