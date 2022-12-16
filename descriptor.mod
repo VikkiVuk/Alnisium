@@ -9,3 +9,4 @@ tags={
 }
 name="Nationstates - SUSS Region"
 supported_version="1.12.*"
+remote_file_id="2895645019"
