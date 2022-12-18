@@ -1,0 +1,14 @@
+state={
+	id=44
+	name="STATE_44"
+	provinces={
+		1733 2367 4329 8224 8225 8234 8248 8250 8282 8283 8289 8295 
+	}
+	history={
+		owner = XLA
+		add_core_of = XLA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

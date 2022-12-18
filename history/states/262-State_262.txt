@@ -1,0 +1,14 @@
+state={
+	id=262
+	name="STATE_262"
+	provinces={
+		2396 3271 5720 5737 5747 8272 
+	}
+	history={
+		owner = XLA
+		add_core_of = XLA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

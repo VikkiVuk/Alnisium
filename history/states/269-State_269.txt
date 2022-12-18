@@ -1,0 +1,14 @@
+state={
+	id=269
+	name="STATE_269"
+	provinces={
+		571 945 1133 1270 1837 2175 2411 2548 2588 3622 3984 4050 4054 4383 4792 5469 8301 8316 8333 8348 8364 8369 8374 8381 8390 8397 8405 8408 8417 8420 8428 8433 8434 8439 8440 8444 
+	}
+	history={
+		owner = KRO
+		add_core_of = KRO
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

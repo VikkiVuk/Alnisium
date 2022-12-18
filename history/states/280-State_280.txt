@@ -1,0 +1,10 @@
+state={
+	id=280
+	name="STATE_280"
+	provinces={
+		635 647 1321 1518 2581 3107 3192 3215 3230 3469 5071 5486 5519 5794 8494 8497 8498 8508 8509 8511 8521 8523 8524 8526 8534 8535 8546 8553 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

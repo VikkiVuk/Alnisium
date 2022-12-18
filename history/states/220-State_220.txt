@@ -1,0 +1,14 @@
+state={
+	id=220
+	name="STATE_220"
+	provinces={
+		1032 1720 1986 2644 2693 4437 4897 5022 7383 7503 7524 7566 7584 7600 7601 7642 7653 7654 7672 
+	}
+	history={
+		owner = XLA
+		add_core_of = XLA
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

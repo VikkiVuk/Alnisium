@@ -1,0 +1,14 @@
+state={
+	id=100
+	name="STATE_100"
+	provinces={
+		120 234 667 1560 1933 2373 2484 4883 5589 5906 5915 5916 5920 5924 5925 5938 5946 5955 5960 5973 5974 5987 5993 6000 6011 6015 6026 6045 
+	}
+	history={
+		owner = ELW
+		add_core_of = ELW
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}
