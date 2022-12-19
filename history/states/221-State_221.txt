@@ -4,6 +4,10 @@ state={
 	provinces={
 		750 857 1077 1585 2311 3056 3468 3645 4066 4176 4218 4979 5367 5586 5596 5714 7537 7635 7725 7741 7794 7804 7832 7846 7872 7900 7918 7923 
 	}
+	history={
+		owner = MIK
+		add_core_of = MIK
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town

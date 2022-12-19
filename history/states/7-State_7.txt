@@ -4,6 +4,10 @@ state={
 	provinces={
 		1310 1993 2957 3553 6230 6251 6377 
 	}
+	history={
+		owner = MIK
+		add_core_of = MIK
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town
