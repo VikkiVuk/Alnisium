@@ -9,23 +9,24 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
+	has_elections = no
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 25
-	fascism = 5
-	communism = 50
-	neutrality = 20
+	democratic = 5
+	fascism = 70
+	communism = 20
+	neutrality = 5
 }
 
 create_country_leader = {
-	name = "Jozef Tiso"
-	desc = "A sussy and goofy ahh boi"
-	picture =gfx\leader\XLA/petar.dds
+	name = "Tin Htin"
+	desc = "A sussy and bussy boi"
+	picture = gfx/leader/XLA/petar.dds
 	ideology = anti_revisionism
 	traits = {
 		#
