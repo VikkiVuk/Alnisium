@@ -24,7 +24,7 @@ bookmarks = {
 			ideology = fascism
 		}
 		"MNM"={
-			history = "M&M_RISING_NATIONS_DESC"
+			history = "MNM_RISING_NATIONS_DESC"
 			ideology = fascism
 		}
 		"WEN"={
