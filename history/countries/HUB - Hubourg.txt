@@ -27,7 +27,7 @@ create_country_leader = {
 	name = "Tin Htin"
 	desc = "A sussy and bussy boi"
 	picture = gfx/leader/XLA/petar.dds
-	ideology = anti_revisionism
+	ideology = nazism
 	traits = {
 		#
 	}
