@@ -4,6 +4,10 @@ state={
 	provinces={
 		846 993 1988 2516 2550 2813 3005 3641 3827 3847 3989 4451 4770 5009 5502 5639 9634 9652 9695 9749 9755 9781 9811 9817 9844 9869 9879 9885 9894 9910 9927 9936 9950 9970 9986 10006 10025 
 	}
+	history={
+		owner = WEN
+		add_core_of = WEN
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town
