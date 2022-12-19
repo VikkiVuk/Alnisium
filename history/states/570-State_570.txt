@@ -4,6 +4,10 @@ state={
 	provinces={
 		1021 1082 2097 2115 2582 3134 4092 4167 4299 4469 5143 5182 5564 12302 12371 12372 12434 12450 12458 12477 12508 12547 12558 12575 12576 12626 12634 
 	}
+	history={
+		owner = M&M
+		add_core_of = M&M
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town

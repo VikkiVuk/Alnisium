@@ -4,6 +4,10 @@ state={
 	provinces={
 		373 742 816 1638 2219 2304 3628 3929 4284 4826 5072 11032 11043 11070 11077 11104 11121 11125 11144 11150 11177 11213 11224 11260 11284 11285 11335 11376 
 	}
+	history={
+		owner = HUB
+		add_core_of = HUB
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town

@@ -4,6 +4,10 @@ state={
 	provinces={
 		575 1267 3639 4895 8942 8972 8979 8994 9015 9033 9044 9064 
 	}
+	history={
+		owner = WEN
+		add_core_of = WEN
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town
