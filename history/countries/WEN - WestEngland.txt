@@ -30,7 +30,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Jozef Tiso"
 	desc = "A sussy and goofy ahh boi"
-	picture =gfx\leader\XLA/petar.dds
+	picture = gfx\leader\XLA/petar.dds
 	ideology = anti_revisionism
 	traits = {
 		#

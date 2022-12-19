@@ -30,7 +30,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Ema Therok"
 	desc = "A sussy and goofy ahh gurl"
-	picture = XLA/petar.dds
+	picture = gfx/leader/XLA/petar.dds
 	ideology = anti_revisionism
 	traits = {
 		#

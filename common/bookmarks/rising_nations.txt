@@ -1,0 +1,40 @@
+bookmarks = {
+	bookmark = {
+		name = "RISING_NATIONS_NAME"
+		desc = "RISING_NATIONS_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "KRO"
+		default = yes
+		
+		"KRO"={
+			history = "KRO_RISING_NATIONS_DESC"
+			ideology = communism
+		}
+		"ELW"={
+			history = "ELW_RISING_NATIONS_DESC"
+			ideology = communism
+		}
+		"XLA"={
+			history = "XLA_RISING_NATIONS_DESC"
+			ideology = communism
+		}
+		"HUB"={
+			history = "HUB_RISING_NATIONS_DESC"
+			ideology = fascism
+		}
+		"M&M"={
+			history = "M&M_RISING_NATIONS_DESC"
+			ideology = fascism
+		}
+		"WEN"={
+			history = "WEN_RISING_NATIONS_DESC"
+			ideology = democratic
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
