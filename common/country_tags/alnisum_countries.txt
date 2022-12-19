@@ -1,6 +1,7 @@
 XLA = "countries/XLandia.txt"
 KRO = "countries/Crotchia.txt"
 ELW = "countries/Elway.txt"
-M&M = "countries/MetalMeshes.txt"
+MNM = "countries/MetalMeshes.txt"
 HUB = "countries/Hubourg.txt"
 WEN = "countries/WestEngland.txt"
+KOK = "countries/CommunistCambodia.txt"

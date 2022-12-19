@@ -4,6 +4,10 @@ state={
 	provinces={
 		190 393 1463 3759 4520 5119 5155 5303 10986 11011 11018 11068 11110 11151 11192 11210 11248 
 	}
+	history={
+		owner = KOK
+		add_core_of = KOK
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town

@@ -5,8 +5,8 @@ state={
 		346 395 1214 2042 2197 2278 3850 4484 4714 11925 12003 12026 12064 12082 12105 12148 12171 12212 12230 12235 12285 12304 12341 12373 12386 12406 
 	}
 	history={
-		owner = M&M
-		add_core_of = M&M
+		owner = MNM
+		add_core_of = MNM
 	}
 	buildings_max_level_factor=1.000
         manpower=1

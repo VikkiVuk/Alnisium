@@ -1,15 +1,12 @@
-capital = 222
+capital = 170
 
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
 
-
-set_convoys = 20
-
 set_politics = {
-	ruling_party = fascism
+	ruling_party = communism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -17,16 +14,16 @@ set_politics = {
 
 set_popularities = {
 	democratic = 5
-	fascism = 70
-	communism = 20
-	neutrality = 5
+	fascism = 20
+	communism = 60
+	neutrality = 15
 }
 
 create_country_leader = {
-	name = "Tin Htin"
-	desc = "A sussy and bussy boi"
-	picture = gfx/leader/XLA/petar.dds
-	ideology = nazism
+	name = "Petar Mokrovodin"
+	desc = "he's suffering"
+	picture =gfx/leader/KRO/papaviki.dds
+	ideology = stalinism
 	traits = {
 		#
 	}

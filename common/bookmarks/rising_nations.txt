@@ -23,13 +23,17 @@ bookmarks = {
 			history = "HUB_RISING_NATIONS_DESC"
 			ideology = fascism
 		}
-		"M&M"={
+		"MNM"={
 			history = "M&M_RISING_NATIONS_DESC"
 			ideology = fascism
 		}
 		"WEN"={
 			history = "WEN_RISING_NATIONS_DESC"
 			ideology = democratic
+		}
+		"KOK"={
+			history = "KOK_RISING_NATIONS_DESC"
+			ideology = communism
 		}
 		
 		effect = {
