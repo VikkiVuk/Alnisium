@@ -10,7 +10,7 @@ diplomatic_relation = {
 	relation = non_aggression_pact
 }
 
-set_convoys = 20
+set_convoys = 50
 
 set_politics = {
 	ruling_party = communism
@@ -32,6 +32,5 @@ create_country_leader = {
 	picture =gfx\leader\XLA/petar.dds
 	ideology = anti_revisionism
 	traits = {
-		#
 	}
 }

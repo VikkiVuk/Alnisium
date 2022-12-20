@@ -1,0 +1,245 @@
+focus_tree = {
+	id = crotchia_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = KRO
+		}
+	}
+	
+	default = no
+	
+	continuous_focus_position = { x = 50 y = 1000 }
+	
+	#	focus = {
+	#		id = KRO_
+	#		icon = GFX_goal_generic_construction
+	#		prerequisite = { focus = }
+	#		mutually_exclusive = { focus =  }
+	#		x = -1
+	#		y = 0
+	#		relative_position_id =
+	#
+	#		cost = 10
+	#
+	#		ai_will_do = {
+	#			factor = 1
+	#		}
+	#
+	#		available = {
+	#
+	#		}
+	#
+	#		bypass = {
+	#
+	#		}
+	#
+	#		cancel_if_invalid = yes
+	#		continue_if_invalid = no
+	#		available_if_capitulated = no
+	#
+	#		complete_tooltip = {
+	#
+	#		}
+	#
+	#		completion_reward = {
+	#
+	#		}
+	#	}
+	
+	#######################
+	#DAS POLITICAL FOKUSES#
+	#######################
+	
+	#Crotcian state
+	focus = {
+		id = KRO_CROTCHIAN_STATE
+		icon = GFX_goal_generic_construction
+		x = 10
+		y = 0
+		
+		cost = 10
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		
+		complete_tooltip = {
+			KRO = {
+				country_event = { id = KRO.1 }
+			}
+			add_political_power = 120
+			add_stability = 0.05
+			add_ideas = KRO_CROTCHIAN_STATE
+		}
+		
+		completion_reward = {
+			add_political_power = 120
+			add_stability = 0.05
+			add_ideas = KRO_CROTCHIAN_STATE
+			KRO = {
+				country_event = { id = KRO.1 }
+			}
+		}
+	}
+	
+	#Monarchy
+	focus = {
+		id = KRO_MONARCHY_0
+		icon = GFX_goal_generic_construction
+		x = -10
+		y = 1
+		relative_position_id = KRO_CROTCHIAN_STATE
+		
+		prerequisite = { focus = KRO_CROTCHIAN_STATE }
+		mutually_exclusive = { focus = KRO_DEMOCRACY_0 }
+		mutually_exclusive = { focus = KRO_COMMUNISM_0 }
+		mutually_exclusive = { focus = KRO_FASCISM_0 }
+		
+		cost = 10
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		
+		complete_tooltip = {
+			add_popularity = {
+				ideology = neutrality
+				popularity = 0.20
+			}
+		}
+		
+		completion_reward = {
+			add_popularity = {
+				ideology = neutrality
+				popularity = 0.20
+			}
+		}
+	}
+	
+	#Democracy
+	focus = {
+		id = KRO_DEMOCRACY_0
+		icon = GFX_goal_generic_construction
+		x = -5
+		y = 1
+		relative_position_id = KRO_CROTCHIAN_STATE
+		
+		prerequisite = { focus = KRO_CROTCHIAN_STATE }
+		mutually_exclusive = { focus = KRO_MONARCHY_0 }
+		mutually_exclusive = { focus = KRO_COMMUNISM_0 }
+		mutually_exclusive = { focus = KRO_FASCISM_0 }
+		
+		cost = 10
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		
+		complete_tooltip = {
+			add_popularity = {
+				ideology = democracy
+				popularity = 0.20
+			}
+		}
+		
+		completion_reward = {
+			add_popularity = {
+				ideology = democracy
+				popularity = 0.20
+			}
+		}
+	}
+	
+	#Communism
+	focus = {
+		id = KRO_COMMUNISM_0
+		icon = GFX_goal_generic_construction
+		x = 5
+		y = 1
+		relative_position_id = KRO_CROTCHIAN_STATE
+		
+		prerequisite = { focus = KRO_CROTCHIAN_STATE }
+		mutually_exclusive = { focus = KRO_DEMOCRACY_0 }
+		mutually_exclusive = { focus = KRO_MONARCHY_0 }
+		mutually_exclusive = { focus = KRO_FASCISM_0 }
+		
+		cost = 10
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		
+		complete_tooltip = {
+			add_popularity = {
+				ideology = communism
+				popularity = 0.20
+			}
+		}
+		
+		completion_reward = {
+			add_popularity = {
+				ideology = communism
+				popularity = 0.20
+			}
+		}
+	}
+	
+	#Fascisam
+	focus = {
+		id = KRO_FASCISM_0
+		icon = GFX_goal_generic_construction
+		x = 10
+		y = 1
+		relative_position_id = KRO_CROTCHIAN_STATE
+		
+		prerequisite = { focus = KRO_CROTCHIAN_STATE }
+		mutually_exclusive = { focus = KRO_MONARCHY_0 }
+		mutually_exclusive = { focus = KRO_COMMUNISM_0 }
+		mutually_exclusive = { focus = KRO_DEMOCRACY_0 }
+		
+		cost = 10
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		
+		complete_tooltip = {
+			add_popularity = {
+				ideology = fascism
+				popularity = 0.20
+			}
+		}
+		
+		completion_reward = {
+			add_popularity = {
+				ideology = fascism
+				popularity = 0.20
+			}
+		}
+	}
+	
+}

@@ -209,3 +209,6 @@
  YUR:0 "Yurmom"
  YUR_DEF:0 "The Yurmom"
  YUR_ADJ:0 "Yurmomian"
+ #easteregg:
+ YUR_AMO_autonomy_puppet:0 "$OVERLORDADJ$ Protectorate "Your Mother""
+ 
