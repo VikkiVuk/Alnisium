@@ -9,7 +9,7 @@ bookmarks = {
 		
 		"KRO"={
 			history = "KRO_RISING_NATIONS_DESC"
-			ideology = communism
+			ideology = neutrality
 		}
 		"ELW"={
 			history = "ELW_RISING_NATIONS_DESC"
@@ -34,6 +34,10 @@ bookmarks = {
 		"KOK"={
 			history = "KOK_RISING_NATIONS_DESC"
 			ideology = communism
+		}
+		"INT"={
+			history = "INT_RISING_NATIONS_DESC"
+			ideology = neutrality
 		}
 		
 		effect = {
