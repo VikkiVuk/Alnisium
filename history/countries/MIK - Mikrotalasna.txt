@@ -21,7 +21,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Jakov IV jaxoveš"
-	desc = "the one who"
+	desc = "the one whos sus"
 	picture =gfx/leader/KRO/papaviki.dds
 	ideology = centrism
 	traits = {
