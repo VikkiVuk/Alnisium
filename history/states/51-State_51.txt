@@ -5,8 +5,8 @@ state={
 		299 1307 1375 1625 3055 3199 3452 4086 4136 4257 4464 4991 5365 8376 8383 8388 8392 8395 8396 8398 8403 8404 8409 8411 8413 8419 8421 8422 8424 8430 8432 8436 8438 8442 8446 8449 
 	}
 	history={
-		owner = KRO
-		add_core_of = KRO
+		owner = YUR
+		add_core_of = YUR
 	}
 	buildings_max_level_factor=1.000
         manpower=1

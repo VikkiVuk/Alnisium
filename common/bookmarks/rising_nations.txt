@@ -27,10 +27,6 @@ bookmarks = {
 			history = "MNM_RISING_NATIONS_DESC"
 			ideology = fascism
 		}
-		"WEN"={
-			history = "WEN_RISING_NATIONS_DESC"
-			ideology = democratic
-		}
 		"KOK"={
 			history = "KOK_RISING_NATIONS_DESC"
 			ideology = communism
