@@ -195,11 +195,11 @@
 
 #INT
  INT_fascism:0 "Internal"
- INT_fascism_DEF:0 "The Internal štate"
+ INT_fascism_DEF:0 "The Internal State"
  INT_democratic:0 "Internal Republic"
  INT_democratic_DEF:0 "The Internal Republic"
- INT_neutrality:1 "Internal Kingdom"
- INT_neutrality_DEF:1 "The Internal Kingdom"
+ INT_neutrality:1 "Kingdom of Internal"
+ INT_neutrality_DEF:1 "The Kingdom of Internal"
  INT_communism:0 "Democratic Republic of Internal"
  INT_communism_DEF:0 "The Democratic Republic of Internal"
  INT_fascism_ADJ:0 "Internalise"
