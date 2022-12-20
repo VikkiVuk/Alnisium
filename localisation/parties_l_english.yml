@@ -1,13 +1,14 @@
 ﻿l_english:
+ # Default
  neutrality:0 "Authoritarian"
  neutrality_noun:0 "Authoritarianism"
- neutrality_desc:0 "Authoritarian Regime"
  communism:0 "Communist"
  communism_noun:0 "Communism"
  democratic:0 "Democratic"
  democratic_noun:0 "Democracy"
  fascism:0 "Fascist"
  fascism_noun:0 "Fascism"
+ neutrality_desc:0 "Authoritarian Regime"
  fascism_desc:0 "Totalitarian Regime"
  communism_desc:0 "Totalitarian Regime"
  democratic_desc:0 "Democratic Regime"
@@ -47,6 +48,18 @@
  centrism_desc:1 "Centrism is a form of government which wants to achieve common sense solutions that appropriately address current and future needs, that support the public trust and serve the common good with consideration of risk and capacity in context of these needs."
  anarchism:0 "Anarchism"
  anarchism_desc:0 "Anarchism is the rejection of authority itself, promoting the division of society into self-managing and self-governing collectives instead of a singular, centralized state."
+ 
+ # XLA
+ XLA_fascism_party:0 "Nazionalistaška Partiya XLyandy"
+ XLA_communism_party:0 "Komuniztiška Narodña Partiya XLyandy"
+ XLA_democracy_party:0 "Demokratiška Partiya XLyandy"
+ XLA_neutrality_party:0 "Royalistiška Partiya XLyandy"
+ 
+ # KRO
+ KRO_fascism_party:0 "Nazionalistaška Partiya Kroča"
+ KRO_communism_party:0 "Ñarodna Partiya Kroča"
+ KRO_democracy_party:0 "Demokratiška Partiya Kroča"
+ KRO_neutrality_party:0 "Royalistiška Partiya Kroča"
  
 
  

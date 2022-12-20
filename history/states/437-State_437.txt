@@ -4,6 +4,10 @@ state={
 	provinces={
 		775 1005 2005 2098 2178 3886 4227 4282 10484 10541 10550 10587 10599 10611 10620 10636 10637 10667 10675 10679 10700 10712 10764 10776 
 	}
+	history={
+		owner = INT
+		add_core_of = INT
+	}
 	buildings_max_level_factor=1.000
         manpower=1
         state_category = town
