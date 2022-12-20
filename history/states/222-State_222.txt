@@ -4,9 +4,12 @@ state={
 	provinces={
 		1875 3696 4720 5560 7651 7652 7713 7714 7732 7739 7784 7803 
 	}
-	history={
+	history= {
 		owner = XLA
 		add_core_of = XLA
+		victory_points = {
+			1875 45
+		}
 	}
 	buildings_max_level_factor=1.000
         manpower=1

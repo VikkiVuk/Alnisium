@@ -7,6 +7,9 @@ state={
 	history={
 		owner = ELW
 		add_core_of = ELW
+		victory_points = {
+			3431 55
+		}
 	}
 	buildings_max_level_factor=1.000
         manpower=1
