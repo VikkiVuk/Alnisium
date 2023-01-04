@@ -5,7 +5,7 @@ state={
 		8149 8177 
 	}
 	history={
-		owner = YUR
+		owner = KRO
 		add_core_of = YUR
 	}
 	buildings_max_level_factor=1.000
