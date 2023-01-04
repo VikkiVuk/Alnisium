@@ -10,11 +10,6 @@ diplomatic_relation = {
 	relation = non_aggression_pact
 }
 
-diplomatic_relation = {
-	country = ELW
-	relation = non_aggression_pact
-}
-
 set_convoys = 20
 
 set_politics = {
@@ -34,9 +29,39 @@ set_popularities = {
 create_country_leader = {
 	name = "Viktor I. Khrushchev"
 	desc = "the one who"
-	picture =gfx/leader/KRO/papaviki.dds
+	picture = gfx/leader/KRO/papaviki.dds
 	ideology = centrism
-	traits = {
-		#
-	}
+	traits = {}
+}
+
+create_country_leader = {
+	name = "Vladimir Kalasnjichev"
+	desc = "he likes communism"
+	picture = gfx/leader/KRO/papaviki.dds
+	ideology = stalinism
+	traits = {}
+}
+
+create_country_leader = {
+	name = "Niko Dasreiicher"
+	desc = "a very evil man"
+	picture = gfx/leader/KRO/papaviki.dds
+	ideology = nazism
+	traits = {}
+}
+
+create_country_leader = {
+	name = "Alekszandar Kozaknjev"
+	desc = "a rather boring leader really"
+	picture = gfx/leader/KRO/papaviki.dds
+	ideology = conservatism
+	traits = {}
+}
+
+create_country_leader = {
+	name = "Miloshz Zalnikovak"
+	desc = "socialism is the way"
+	picture = gfx/leader/KRO/papaviki.dds
+	ideology = socialism
+	traits = {}
 }

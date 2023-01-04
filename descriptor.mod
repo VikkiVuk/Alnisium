@@ -5,8 +5,16 @@ replace_path="common/bookmarks"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
 tags={
-	"Map"
+	"Alternative History",
+	"Balance",
+	"Events",
+	"Gameplay",
+	"Graphics",
+	"Map",
+	"Military",
+	"National Focuses",
 	"Utilities"
+
 }
 picture="thumbnail.png"
 supported_version="1.12.*"
