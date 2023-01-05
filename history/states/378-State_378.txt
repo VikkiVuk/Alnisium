@@ -2,7 +2,12 @@ state={
 	id=378
 	name="STATE_378"
 	provinces={
-		2586 3455 3490 4069 9748 9843 9897 
+		2586 3455 3490 4069 9748 9843 9897
+		
+	history={
+		owner = KRO
+		add_core_of = KRO
+		
 	}
 	buildings_max_level_factor=1.000
         manpower=1

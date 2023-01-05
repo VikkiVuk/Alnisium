@@ -2,7 +2,12 @@ state={
 	id=75
 	name="STATE_75"
 	provinces={
-		151 276 340 1797 2979 3819 3895 3931 4083 4346 4348 5161 5237 5313 10316 10320 10344 10360 10384 10391 10402 10405 
+		151 276 340 1797 2979 3819 3895 3931 4083 4346 4348 5161 5237 5313 10316 10320 10344 10360 10384 10391 10402 10405
+		
+		history={
+			owner = XLA
+		#add core of random deasert nation that has ben colonised
+	
 	}
 	buildings_max_level_factor=1.000
         manpower=1
