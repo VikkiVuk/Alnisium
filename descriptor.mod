@@ -1,20 +1,20 @@
 name="Alnisium"
+version="1.0"
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="common/bookmarks"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
 tags={
-	"Alternative History",
-	"Balance",
-	"Events",
-	"Gameplay",
-	"Graphics",
-	"Map",
-	"Military",
-	"National Focuses",
+	"Alternative History"
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Map"
+	"Military"
+	"National Focuses"
 	"Utilities"
-
 }
 picture="thumbnail.png"
 supported_version="1.12.*"
